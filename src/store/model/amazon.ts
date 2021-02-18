@@ -748,6 +748,14 @@ export const Amazon: Store = {
       series: 'sf',
       url: 'https://www.amazon.com/dp/B07F84FJ1G',
     },
+    {
+      brand: 'integrados',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B07SXNDKNM&Quantity.1=1',
+      model: '3400g',
+      series: 'ryzen3400g',
+      url: 'https://www.amazon.com/dp/B07SXNDKNM',
+    },
   ],
   name: 'amazon',
 };
